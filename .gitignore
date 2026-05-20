@@ -1,0 +1,4 @@
+*.pyc
+.coverage
+cover/
+bill-optimal-strategy.txt
